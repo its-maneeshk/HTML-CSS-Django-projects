@@ -4,7 +4,7 @@
 ## Projects Demo Image
 - Description: A sleek and modern front page for a gaming website, showcasing the latest games, news, and events in the gaming world.
 <h3 align="center">Demo</h3>
-<img src="front-page-of-Game-website/assets/demo-image.png" alt="Gaming Front Page Demo" width="852" height="393">
+<img src="assets/demo-image.png" alt="Gaming Front Page Demo" width="852" height="393">
 
 ## Contributing
 If you'd like to contribute to this repository, please fork the repository and use a feature branch. Pull requests are welcome.
