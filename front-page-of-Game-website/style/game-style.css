@@ -1,0 +1,95 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #362140;
+    font-family:'Courier New', Courier, monospace;
+}
+header{
+    color: whitesmoke;
+}
+nav{
+    margin: 0 auto;
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#logo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+}
+.logo-image{
+    height: 45px;
+    width: 50px;
+}
+nav > ul{
+    display: flex;
+    list-style: none;
+    gap: 20px;
+}
+nav ul li:hover{
+    color: red;
+}
+nav > ul > li{
+    font-size: large;
+    font-weight: bold;
+    cursor: pointer;
+}
+nav #right{
+    cursor: pointer;
+}
+
+/* MAIN BODY BELOW HEADER */
+section {
+    display: flex;
+    height: 100vh;
+    margin: 0 auto;
+    width: 80%;
+    align-items: center;
+    justify-content: space-evenly;
+    color: whitesmoke;
+}
+section #left {
+    
+}
+section #left h1{
+    font-family: "Jacquard 24 Charted", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 50px;
+    margin-bottom: 0px;
+    color: gainsboro;
+}
+section #left p{
+    width: 70%;
+    
+}
+section #right img {
+    margin-top: 80px;
+    margin-right: 30px;
+    max-width: 100%;
+}
+
+/* BAND  */
+#band {
+    
+    width: 100%;
+    margin: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    padding: 15px 10px;
+    margin-bottom: 100px;
+    justify-content: space-around;
+    background: #ffffff40;
+    box-shadow: 0px 50px 32px 0px rgba(0, 38, 137, 0.37);
+    backdrop-filter: blur(4px);
+    transform: rotate(-3deg);
+}
+
+#band div img {
+    width: 30px;
+    height: auto;
+}
