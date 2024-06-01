@@ -7,9 +7,8 @@ Below is a list of my projects. Each project includes a brief description and a 
 
 1. **Gaming Front Page Website**
    - Description: A sleek and modern front page for a gaming website, showcasing the latest games, news, and events in the gaming world.
-   - Demo:
-     ![Project Name 1 Demo](path/to/demo-image-1.png)
-
+   <h3 align="center">Demo</h3>
+   <img src="front-page-of-Game-website/assets/demo-image.png" alt="Gaming Front Page Demo" width="852" height="393">
 
 ## Contributing
 If you'd like to contribute to this repository, please fork the repository and use a feature branch. Pull requests are welcome.
