@@ -1,10 +1,14 @@
-<h1 align="center">Gaming Front Page Website</h1>
-<p>This project is a comprehensive front page for a gaming website designed to captivate and engage visitors from the moment they land on the site. It features a dynamic and visually appealing layout that highlights the latest games, news, and events in the gaming industry. The design is responsive and optimized for both desktop and mobile devices, ensuring a seamless user experience across all platforms.</p>
+<h1 align="center">House Interior Website</h1>
+<p>This project is a comprehensive interior website designed to captivate and engage visitors from the moment they land on the site. It features a dynamic and visually appealing layout.</p>
 
 ## Projects Demo Image
-- Description: A sleek and modern front page for a gaming website, showcasing the latest games, news, and events in the gaming world.
-<h3 align="center">Demo</h3>
-<img src="assets/demo-image.png" alt="Gaming Front Page Demo">
+This project is a simple and elegant interior design website. It features a clean and responsive design, with the following key components:
+- Navigation Bar: A stylish navigation bar that allows users to easily access different sections of the website.
+- Front Page: The main page includes a welcoming message with options for booking a design consultation or scheduling a tour.
+- About Us Page: An additional page providing details about the company, our mission, and the services we offer.
+<h3 align="center">Demo Images</h3>
+<img src=".interior-demo-images/demo-image.png" alt="Page Demo">
+<img src=".interior-demo-images/demo-image.png" alt="Page Demo">
 
 ## Contributing
 If you'd like to contribute to this repository, please fork the repository and use a feature branch. Pull requests are welcome.
