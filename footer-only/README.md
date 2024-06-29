@@ -13,7 +13,7 @@ This repository contains a complete footer component for a website, including al
 ## Projects Demo Image
 <h3 align="center">Demo</h3>
 <h3 align="left">Preview 1</h3>
-<img align="right" src=".demo-images/footer-only-demo-image.png" alt="Page Demo">
+<img align="left" src=".demo-images/footer-only-demo-image.png" alt="Page Demo">
 
 
 ## Contributing
