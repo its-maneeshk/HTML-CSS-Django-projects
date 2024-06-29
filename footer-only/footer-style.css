@@ -1,0 +1,66 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+/* footer content css goes here  */
+footer {
+    padding: 0px 20px 0px 20px;
+    background-color: lightcoral;
+}
+footer .footer-top {
+    padding: 0 50px 0 70px;
+}
+
+footer .footer-second {
+    display: flex;
+    justify-content: space-around;
+}
+footer .footer-second div ul {
+    padding-left: 0;
+}
+footer .footer-second div ul li {
+   list-style: none;
+   font-weight: bold;
+   cursor: pointer;
+   margin-bottom: 8px;
+}
+footer .footer-second div ul li::before {
+    content: "» ";
+}
+footer .footer-second div ul li:hover{
+    color: white;
+}
+.footer-second-div-three-mail-contact{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.footer-second-div-three-mail-contact a:hover{
+    color: red;
+}
+.footer-second-div-three-mail-contact span:hover{
+    color: white;
+}
+.footer-second-div-three-mail-contact a {
+    text-decoration: none;
+    color: black;
+}
+.footer-second-div-four {
+    width: 350px;
+}
+.fa-fa-icons {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: 30px;
+    font-size: 30px;
+}
+.fa-fa-icons i:hover {
+color: white;
+}
+footer .copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
