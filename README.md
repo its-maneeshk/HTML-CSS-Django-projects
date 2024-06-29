@@ -7,7 +7,8 @@ Below is a list of my projects. Each project includes a brief description and a 
 
 1. **Gaming Front Page Website**
    - Description: A sleek and modern front page for a gaming website, showcasing the latest games, news, and events in the gaming world.
-   <h3 align="center">Demo</h3>
+   <h3 align="center">Demo Images</h3>
+   <h3 align="left">Preview 1</h3>
    <img src="front-page-of-Game-website/assets/demo-image.png" alt="Gaming Front Page Demo">
 2. **Interior Webpage**
    - Description: This project is a simple and elegant interior design website.
@@ -16,6 +17,11 @@ Below is a list of my projects. Each project includes a brief description and a 
    <img align="left" src="/Interior/.interior-demo-images/demo-1.png" alt="Page Demo">
    <h3 align="left">Preview 2</h3>
    <img align="right" src="/Interior/.interior-demo-images/demo-2.png" alt="Page Demo">
+3. **Website Footer Component**
+   - This repository contains a complete footer component for a website, including all the basic requirements commonly found in footers.
+   <h3 align="center">Demo Images</h3>
+   <h3 align="left">Preview 1</h3>
+   <img src=".demo-images/footer-only-demo-image.png" alt="Website's footer only">
 
 ## Contributing
 If you'd like to contribute to this repository, please fork the repository and use a feature branch. Pull requests are welcome.
