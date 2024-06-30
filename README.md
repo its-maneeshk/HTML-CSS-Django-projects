@@ -11,6 +11,7 @@ Below is a list of my projects. Each project includes a brief description and a 
    <h3 align="left">Preview 1</h3>
    <img src="front-page-of-Game-website/assets/demo-image.png" alt="Gaming Front Page Demo">
    <hr>
+   
 2. **Interior Webpage**
    - Description: This project is a simple and elegant interior design website.
    <h3 align="center">Demo Images</h3>
@@ -19,6 +20,7 @@ Below is a list of my projects. Each project includes a brief description and a 
    <h3 align="left">Preview 2</h3>
    <img align="right" src="/Interior/.interior-demo-images/demo-2.png" alt="Page Demo">
    <hr>
+   
 3. **Website Footer Component**
    - This repository contains a complete footer component for a website, including all the basic requirements commonly found in footers.
    <h3 align="center">Demo Images</h3>
