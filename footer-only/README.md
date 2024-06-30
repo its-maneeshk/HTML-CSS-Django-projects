@@ -13,7 +13,8 @@ This repository contains a complete footer component for a website, including al
 ## Projects Demo Image
 <h3 align="center">Demo</h3>
 <h3 align="left">Preview 1</h3>
-<img src="assets/demo-image.png" alt="Gaming Front Page Demo">
+<src=".demo-images/footer-only-demo-image.png" alt="Page Demo">
+<img align="left" src="/.demo-images/footer-only-demo-image.png" alt="Page Demo">
 
 ## Contributing
 If you'd like to contribute to this repository, please fork the repository and use a feature branch. Pull requests are welcome.
