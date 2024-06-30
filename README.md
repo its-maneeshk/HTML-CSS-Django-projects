@@ -32,4 +32,8 @@ Below is a list of my projects. Each project includes a brief description and a 
 If you'd like to contribute to this repository, please fork the repository and use a feature branch. Pull requests are welcome.
 
 ## Contact
-If you have any questions or suggestions, feel free to contact me at maneeshkurmii@gmail.com.
+If you have any questions or feedback, feel free to reach out:
+
+- [Twitter](https://twitter.com/@its_maneeshk_)
+- [LinkedIn](https://www.linkedin.com/in/itsmaneeshk/)
+- [Email](mailto:maneeshkurmii@gmail.com)
