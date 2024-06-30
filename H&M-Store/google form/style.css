@@ -1,0 +1,98 @@
+body
+{
+    background-color: whitesmoke;
+}
+.overlay
+{
+    margin-top: 100px;
+    margin-left: 500px;
+    background-color: whitesmoke;
+    box-shadow: 1px 1px 40px 30px lightsteelblue;  
+    width: 500px;
+    height: 500px;
+    border-radius: 50px;
+    border-color: transparent;
+    border-style: solid;
+}
+.user-avatar
+{
+    height: 120px;
+    width: 120px;
+    border-radius: 70px;
+    margin-top: 70px;
+    margin-left: 180px;
+    box-shadow: 8px 6px 30px gray;
+}
+.please-verify-text
+{
+    font-family: georgia;
+    margin-top: 10px;
+    margin-left: 95px;
+    margin-bottom: 5px;
+}
+.first-name
+{
+    margin-top: 0px;
+    margin-left: 95px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    background-color: white;
+    height: 35px; 
+    width: 150px;
+    text-align: left;
+    color: gray;
+}
+.last-name
+{
+    margin-top: 0px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    background-color: white;
+    height: 35px; 
+    width: 150px;
+    text-align: left;
+    color: gray;
+}
+.Email
+{
+    margin-left: 95px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: lightgray;
+    border-style: solid;
+    background-color: white;
+    height: 35px; 
+    width: 300px;
+    text-align: left;
+    color: gray;
+}
+.sign-up
+{
+    margin-top: 15px;
+    margin-left: 95px;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: transparent;
+    border-style: solid;
+    background-color: #12a7f7;
+    height: 35px; 
+    width: 300px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    cursor: pointer;
+}
+.sign-up:hover
+{
+    background-color: lightblue;
+}
+.sign-up:active
+{
+    background-color: red;
+    transition: 0.4ms;
+}

@@ -1,0 +1,199 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Montserrat&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+body{
+    height: 100%;
+    width: 100%;
+}
+
+header{
+    background-color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 4.5rem;
+    gap: 100px;
+    font-family: sans-serif;
+}
+header .left{
+    margin-left: 20px;
+    display: flex;
+    align-items: center;
+    
+}
+header .left img{
+    width: 60px;
+}
+header .left h1{
+    margin-left: 10px;
+}
+header ul{
+    display: flex;
+    gap: 15px;
+    margin-right: 20px;
+}
+header ul li a{
+    color: black;
+    font-weight: 600;
+}
+header ul li a:hover{
+    color: crimson;
+    transition: 0.6s;
+}
+section{
+    min-height: 100vh;
+
+}
+.page-1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 80px;
+    background: #1D212B;
+    color: white;
+}
+section .left-content{
+    
+
+}
+section .left-content h1{
+    font-size: 29px;
+    margin-bottom: 10px;
+}
+section .left-content p{
+    width: 700px;
+    text-align: left;
+}
+section .right-content img{
+    height: 550px;
+    border-radius: 29% 64% 32% 20% / 22% 47% 17% 24%;
+    box-shadow: 0px 0px 90px 2px white;
+}
+section:nth-child(5){
+    background: #1D212B;
+    color: white;
+}
+.page-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+section h1{
+    text-transform: uppercase;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+section .page-2-para{
+    width: 900px;
+    text-align: center;
+}
+span{
+    color: crimson;
+    font-weight: bolder;
+}
+section .cards{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+}
+section .cards{
+
+}
+
+section .cards #cards-elements img{
+    height: 200px;
+}
+
+
+.page-3{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+section .container .cards .cards-text img{
+    height: 200px;
+    border-radius: 100px;
+
+}
+section .container{
+    margin: 100px;
+}
+section h1{
+    font-size: 50px;
+}
+section h3{
+    text-transform: uppercase;
+    margin: 10px 0px 8px 0px;
+}
+section .card{
+    display: flex;
+}
+section .card .text-card{
+    background-color: lightgrey;
+    margin: 10px;
+    padding: 40px;
+}
+section .card .text-card h3{
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+    text-transform: uppercase;
+}
+@media (max-width: 700px){
+    section h1{
+        font-size: 40px;
+    }
+    section .card{
+        flex-direction: column;
+    }
+}
+
+
+footer{
+    color: white;
+    text-align: center; 
+    background-color: #000;
+}
+footer h3{
+    color: red;
+    line-height: 50px;
+    font-size: 28px;
+}
+.social-icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+footer li{
+    list-style: none;
+}
+
+footer li a i{
+    color: white;
+    font-size: 20px;
+    margin: 10px 10px 30px 0px;
+}
+footer li a i:hover{
+    color: red;
+}
+
+.footer-bottom{
+    background-color: #000;
+    line-height: 35px;
+}
+.footer-bottom a{
+    color: gray;
+    font-weight: 700;
+    opacity: 0.5;
+}
+.footer-bottom a:hover{
+    color: red;
+}
