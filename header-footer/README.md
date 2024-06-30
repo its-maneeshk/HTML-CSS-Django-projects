@@ -1,31 +1,71 @@
-# Website Footer Component
+# RocketX
+RocketX is a personal portfolio website designed to showcase your work, projects, and skills. This project is created to help individuals create an online presence with a professional-looking portfolio. 
 
-This repository contains a complete footer component for a website, including all the basic requirements commonly found in footers.
+
+## Projects Demo Image
+<h2 align="center">Demo</h2>
+<h3 align="left">Preview 1</h3>
+<src=".demo-images/footer-only-demo-image.png" alt="Page Demo">
+<img align="left" src="/.demo-images/header-footer-demo-image.png" alt="Page Demo">
+
+---
+## Table of Contents
+
+- [About](#about)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## About
+
+RocketX is a simple, yet elegant portfolio website template. It includes sections for a brief introduction, portfolio projects, skills, and a contact form. The design is clean and modern, with a focus on showcasing your work.
 
 ## Features
 
-- **Navigation Links:** Links to important sections of the website (e.g., Home, About, Contact).
-- **Contact Information:** Email address, phone number, or other contact details.
-- **Social Media Links:** Links to social media profiles (e.g., Twitter, Facebook, LinkedIn).
-- **Copyright Information:** Details about the copyright holder and year.
-- **Privacy Policy and Terms of Service:** Links to legal documents if applicable.
+- Easy to customize
+- Sections for About, Portfolio, Projects, Skills, and Contact
+- Social media links
+- Copyright notice
 
-## Projects Demo Image
-<h3 align="center">Demo</h3>
-<h3 align="left">Preview 1</h3>
-<src=".demo-images/footer-only-demo-image.png" alt="Page Demo">
-<img align="left" src="/.demo-images/footer-only-demo-image.png" alt="Page Demo">
+## Installation
 
-## Contributing
-If you'd like to contribute to this repository, please fork the repository and use a feature branch. Pull requests are welcome.
+To install and run this project locally, follow these steps:
 
-## Contact
-If you have any questions or suggestions, feel free to contact me at maneeshkurmii@gmail.com.
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/yourusername/rocketx.git
+    ```
+
+2. Navigate to the project directory:
+
+    ```bash
+    cd rocketx
+    ```
+
+3. Open `index.html` in your preferred web browser.
 
 ## Usage
 
-To use this footer component in your website:
+To use this template for your own portfolio:
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repository.git
+1. Replace the placeholder text with your own content.
+2. Update the image in the introduction section with your own profile picture.
+3. Customize the `style.css` file to change the look and feel of the website.
+4. Add your own projects and skills in the respective sections.
+
+## Contributing
+
+Contributions are welcome! If you have suggestions for improvements or new features, please create a new issue or submit a pull request.
+
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- [Twitter](https://twitter.com/@its_maneeshk_)
+- [LinkedIn](https://www.linkedin.com/in/itsmaneeshk/)
+- [Email](mailto:maneeshkurmii@gmail.com)
