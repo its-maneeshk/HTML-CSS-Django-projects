@@ -1,4 +1,4 @@
-# Website Footer Component
+# Eclipse - Demo only static front page
 
 This repository contains a demo front webpage of eclipse website.
 
