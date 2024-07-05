@@ -1,0 +1,232 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+    font-family: sans-serif;
+    align-items: center;
+}
+.header-toolbar {
+    cursor: pointer;
+    background-color: #dddcdc;
+    display: flex;
+    justify-content: end;
+    gap: 25px;
+    padding: 15px 120px 15px 120px;
+    font-size: 25px;
+}
+.header-toolbar i:hover {
+    color: #f06c00;
+}
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 20px 0px 20px 0px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: #dddcdc;
+    width: 100%;
+}
+.website-logo {
+    width: 150px;
+    height: 48.76px;
+}
+header .nav-bar ul {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-weight: bold;
+}
+header .nav-bar ul li {
+    list-style: none;
+    transition: 0.3s;
+    margin-left: 15px;
+}
+header .nav-bar ul li:hover {
+    color: #f06c00;
+    cursor: pointer;
+}
+header button {
+    background-color: #f06c00;
+    width: 91.38px;
+    height: 33.6px;
+    border: none;
+    color: white;
+}
+header button:hover {
+    color: black;
+}
+.home-main-body {
+    background: url(/static/eclipse-home-bg.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-position: center;
+    color: white;   
+    padding: 0px 130px 0px 130px;
+    /* height: 80vh;   */
+}
+.home-main-body .top-part {
+    padding-top: 30px;
+}
+.home-main-body .top-part h1, p {
+    width: 60%;
+}
+.home-main-body .top-part button {
+    height: 35px;
+    width: 200px;
+}
+.home-main-body .top-part button:hover {
+    color: #f06c00;
+    cursor: pointer;
+}
+.home-main-body .top-lower-part {
+    margin-top: 30px;
+    padding: 20px 50px 20px 50px;
+}
+.home-main-body .top-lower-part .top-lower-part-inside {
+    width: 800px;
+    margin: 0px 10px 0px 50px;
+}
+.home-main-body .top-lower-part button {
+    height: 35px;
+    width: 250px;
+    color: white;
+    background-color: black;
+    border: none;
+    cursor: pointer;
+}
+.home-main-body .top-lower-part button:hover {
+    color: #f06c00;
+}
+.home-main-body h1 span {
+    color: #f06c00;
+}
+.home-main-body .top-lower-part {
+    background-color: #ffa02e;
+    display: flex;
+    align-items: center;
+}
+.home-main-body p {
+    padding-bottom: 30px;
+}
+
+
+/* section 2  */
+.section-2, .section-3, .featured-footer {
+    padding: 0px 130px 0px 130px;
+}
+.section-2 h1 {
+    margin: 50px 0px 50px 0px
+}
+.card {
+    display: flex;
+}
+.text-card {
+    margin-left: 25px;
+    text-align: left;
+}
+time {
+    color: #f06c00;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+/* section 3 */
+.section-3 {
+    padding-bottom: 30px;
+}
+.section-3 h1 {
+    margin: 50px 0px 50px 0px;
+}
+
+/* section 4 */
+.featured-footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    text-align: center;
+    background-color: #dddcdc;
+    color: #4c4d4e;
+}
+.featured-footer p {
+    margin-top: 0px;
+}
+.featured-footer button {
+    height: 45px;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border: none;
+}
+.featured-footer button:hover {
+    color: #f06c00;
+    cursor: pointer;
+}
+
+/* footer content css goes here  */
+footer {
+    padding: 0px 20px 0px 20px;
+}
+footer .footer-top {
+    padding: 0 50px 0 70px;
+}
+
+footer .footer-second {
+    display: flex;
+    justify-content: space-around;
+}
+footer .footer-second div ul {
+    padding-left: 0;
+}
+footer .footer-second div ul li {
+   list-style: none;
+   font-weight: bold;
+   cursor: pointer;
+   margin-bottom: 8px;
+}
+footer .footer-second div ul li::before {
+    content: "» ";
+}
+footer .footer-second div ul li:hover{
+    color: #f06c00;
+}
+.footer-second-div-three-mail-contact{
+    margin-top: 10px;
+    font-weight: bold;
+}
+.footer-second-div-three-mail-contact a:hover{
+    color: #f06c00;
+    cursor: pointer;
+}
+.footer-second-div-three-mail-contact span:hover{
+    color: #f06c00;
+}
+.footer-second-div-three-mail-contact a {
+    text-decoration: none;
+    color: black;
+}
+.footer-second-div-four {
+    width: 350px;
+}
+.fa-fa-icons {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    gap: 30px;
+    font-size: 30px;
+}
+.fa-fa-icons i:hover {
+color: #f06c00;
+}
+footer .copyright {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+}
