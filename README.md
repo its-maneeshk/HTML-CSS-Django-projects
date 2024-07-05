@@ -29,9 +29,16 @@ Below is a list of my projects. Each project includes a brief description and a 
    - This repository contains a complete header & footer component for a website, including all the basic requirements commonly found in header & footer.
       <h2 align="center">Demo Image</h2>
       <h3 align="left">Preview 1</h3>
-      <src=".demo-images/footer-only-demo-image.png" alt="Page Demo">
       <img align="left" src="/.demo-images/header-footer-demo-image.png" alt="Page Demo">
-5. ## UpComming Soon...
+
+5. ## H&M Store - A complete front page webpage
+   - This project showcases a modern, sleek, and user-friendly design for an e-commerce fashion website.
+      <h2 align="center">Demo Image</h2>
+      <h3 align="left">Preview 1</h3>
+      <src=".demo-images/H&M-Store-demo-image.png" alt="Page Demo">
+      <img align="left" src=".demo-images/H&M-Store-demo-image.png" alt="Page Demo">
+      
+6. ## UpComming Soon...
 
 ## Contributing
 If you'd like to contribute to this repository, please fork the repository and use a feature branch. Pull requests are welcome.
