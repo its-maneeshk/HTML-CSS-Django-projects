@@ -5,6 +5,12 @@
 
 Below is a list of my projects. Each project includes a brief description and a demo image to give you an idea of what it looks like.
 
+0. ## Eclipse - a demo static webpage
+   - Description: This webpage just mimic basic functionality of the front page of eclipse website.
+      <h3 align="center">Demo Images</h3>
+      <h3 align="left">Preview 1</h3>
+      <img src=".demo-images/eclipse-demo-image.png" alt="Eclipse Front Page Demo">
+
 1. ## Gaming Front Page Website
    - Description: A sleek and modern front page for a gaming website, showcasing the latest games, news, and events in the gaming world.
    <h3 align="center">Demo Images</h3>
